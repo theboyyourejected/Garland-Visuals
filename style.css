@@ -1,0 +1,89 @@
+/* body styling */
+body{
+    background-color: beige;
+}
+
+/* Navbar section */
+.advert{
+    height: 540px;
+    /* background-image: url(images/camera2.jpeg); */
+
+    background: rgb(247,247,247);
+    background: linear-gradient(to right, #2b2b2bbb, #1d1d1d), url(images/camera2.jpeg);
+    background-size: cover;
+    background-position: center;    
+}
+.ad-text {
+    margin-top: 150px;
+}
+
+/* ruler for proper alignment */
+/* div {
+    border: 1px solid red;
+} */
+
+/* Collection sectipn */
+.frame{
+    background-image: url(images/3.PNG);
+    background-size: cover;
+    border: 7px solid beige;
+}
+.frame1{
+    background-image: url(images/13.PNG);
+    background-size: cover;
+    border: 3px solid beige;
+}
+.frame2{
+    background-image: url(images/8.PNG);
+    background-size: cover;
+    border: 7px solid beige;
+}
+.frame3{
+    background-image: url(images/camera.jpeg);
+    background-size: cover;
+    border: 3px solid beige;
+}
+
+.backi {
+    background-color: rgba(0, 0, 0, 0.808);
+
+}
+
+
+/* second advert section */
+.advert2{
+    height: 540px;
+    /* background-image: url(images/camera2.jpeg); */
+
+    background: rgb(247,247,247);
+    background: linear-gradient(to right, #2b2b2bbb, #1d1d1d), url(images/10.PNG);
+    background-size: cover;
+    background-position: center;    
+}
+.ad-text2{
+    padding-top: 300px;
+}
+
+/* random image and FAQ section */
+.faq {
+    height: 500px;
+}
+
+.faq1{
+    background: url(images/5.PNG);
+    background-size: cover;
+}
+.faq2{
+    background-color: rgba(232, 226, 226, 0.808);
+    padding-top: 200px;
+}
+.faq3 {
+    background: url(images/oracle.jpg);
+    background-size: cover;
+}
+
+/* footer section */
+.footerg {
+    height: 300px;
+    background-color: #1d1d1d;
+}
